@@ -1,1 +1,1 @@
-# MulticoreProject
+# MulticoreResearch
